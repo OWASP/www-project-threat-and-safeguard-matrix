@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Threat Countermeasures Matrix
+title: OWASP Threat and Safeguard Matrix
 tags: example-tag
 level: 1
 type: 
