@@ -20,11 +20,11 @@ Example if you were to look across the information security industry you would n
 ## Threats
 
 ## Functions
-### Identify-
-### Protect-
-### Detect-
-### Respond-
-### Recover-
+#### Identify-
+#### Protect-
+#### Detect-
+#### Respond-
+#### Recover-
 
 ## Safeguards
 
