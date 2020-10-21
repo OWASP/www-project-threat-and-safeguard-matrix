@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Threat and Safeguard Matrix (TaSM)
-tags: example-tag
+tags: TaSM, Risk Management, Safeguard, Enable, Threat and Safeguard Matrix, Matrix
 level: 1
 type: 
-pitch: A very brief, one-line description of your project
+pitch: An action-oriented view to safeguard and enable the business
 
 ---
 # Introduction
