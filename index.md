@@ -13,7 +13,7 @@ The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguar
 
 Example if you were to look across the information security industry you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss.
 
-![TaSM](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/assets/images/TaSM%20Matrix.png)
+![TaSM](assets/images/TaSM%20Matrix.png)
 
 # How does it work?
 
