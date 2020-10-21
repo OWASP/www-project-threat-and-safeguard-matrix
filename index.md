@@ -44,8 +44,9 @@ The recover function includes identifying appropriate activities to maintain pla
 ## Safeguards
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards).
 
+#Completed TaSM
+[Completed TaSM}(https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/assets/images/CompletedTaSM.png)
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
 layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
