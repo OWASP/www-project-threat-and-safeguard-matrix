@@ -1,10 +1,11 @@
 ---
 # Introduction
-The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by Ross Young.  It started with a thought that we often list our greatest threats to our company in a risk register, but fail to actually provide a defense in depth plan to address them.  Simply put if Cyber is in the business of Revenue Protection, then we need to have a well though out plan against the biggest threats to our company.  This is where the functions (Identify, Protect, Detect, Respond, & Recover) of the NIST Cyber Security Framework come into play
+The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by Ross Young.  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  So identify the major threats to your company and cross reference these with the NIST CSF functions (Identify, Protect, Detect, Respond, & Recover).  Then fill in safeguards that you could implement to overcome each threat.   
 
 Example if you were to look across the information security industry you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss.
 
 ![TaSM](assets/images/TaSMMatrix.png "Threat and Safeguard Matrix")
+![Threat and Safeguard Matrix](assets/images/CompletedTaSM.png "Completed Threat and Safeguard Matrix")
 
 # How does it work?
 
@@ -30,6 +31,3 @@ The recover function includes identifying appropriate activities to maintain pla
 
 ## Safeguards
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) however don't feel forced to use them as shown by the Example TaSM below.
-
-# Example TaSM
-![Threat and Safeguard Matrix](assets/images/CompletedTaSM.png "Threat and Safeguard Matrix")
