@@ -10,8 +10,7 @@ Example if you were to look across the information security industry you would n
 
 ## Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
-Common Examples of Threat types can be found in the STRIDE-LM matrix
-![STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
+Common Examples of Common Threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
 
 
 ## Functions & Safeguards
