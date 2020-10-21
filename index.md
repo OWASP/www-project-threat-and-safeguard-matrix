@@ -15,6 +15,7 @@ Example if you were to look across the information security industry you would n
 
 ![TaSM](assets/images/TaSMMatrix.png "Threat and Safeguard Matrix")
 
+
 # How does it work?
 
 ## Threats
@@ -45,8 +46,7 @@ The recover function includes identifying appropriate activities to maintain pla
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards).
 
 # Example TaSM
-![Example TaSM](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/assets/images/CompletedTaSM.png)
-
+![Threat and Safeguard Matrix](assets/images/CompletedTaSM.png "Threat and Safeguard Matrix")
 
 layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
 
