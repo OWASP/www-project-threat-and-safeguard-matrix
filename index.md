@@ -15,13 +15,13 @@ Example if you were to look across the information security industry you would n
 
 ![TaSM](assets/images/TaSMMatrix.png "Threat and Safeguard Matrix")
 
-
 # How does it work?
 
 ## Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
 Common Examples of Threat types can be found in the STRIDE-LM matrix
-![STRIDE-LM](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/assets/images/StrideLM.png)
+![STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
+
 
 ## Functions & Safeguards
 
