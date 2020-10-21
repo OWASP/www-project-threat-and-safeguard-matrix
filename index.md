@@ -19,12 +19,12 @@ Example if you were to look across the information security industry you would n
 
 ## Threats
 
-## Functions
-#### Identify-
-#### Protect-
-#### Detect-
-#### Respond-
-#### Recover-
+## NIST Cyber Security Framework Functions
+#### Identify- The identify function assists in developing an organizational understanding of managing risk to systems, people, assets, data, and capabilities.  Key Objective: Identify all people, proccesses, or systems that would be vulnerable to this type of threat.  
+#### Protect- The protect function supports the ability to limit or contain the impact of the threat. Key Objective: How could you limit the threat of a an attack by removing or blocking the vulnerability
+#### Detect- The detect function defines the activities to identify the occurence of an event in a timely mannner.  Key Objective: If you couldn't stop the threat (ie protect phase) how would you know it's even happening and your company is experiencing harm
+#### Respond- The respond function includes appropriate activities regarding an incident to minimize impact.  Key Objective: If the threat has been realized how do you prevent additional financial damage, reputation damage, non compliance, or privacy violations 
+#### Recover- The recover function includes identifying appropriate activities to maintain plans for resilience and to restore services impaired during cybersuecrity incidents.  Key Objective: How do you get to a state that was equal or better than before the incident
 
 ## Safeguards
 
