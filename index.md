@@ -22,7 +22,9 @@ CNSS defines a **Threat** as any event with the potential to adversely impact or
 Common Examples of Threat types can be found in the STRIDE-LM matrix
 ![STRIDE-LM](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/assets/images/StrideLM.png)
 
-## NIST Cyber Security Framework Functions
+## Functions & Safeguards
+
+The 5 NIST Cyber Security Framework Functions
 #### Identify 
 The identify function assists in developing an organizational understanding of managing risk to systems, people, assets, data, and capabilities.  
 **Key Objective**: Identify all people, proccesses, or systems that would be vulnerable to this type of threat.  
