@@ -10,12 +10,12 @@ Example if you were to look across the information security industry you would n
 
 # How does it work?
 
-## Threats
+### Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
 Common Examples of Common Threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
 
 
-## Functions & Safeguards
+### Functions & Safeguards
 
 The 5 NIST Cyber Security Framework Functions
 #### Identify 
@@ -29,5 +29,5 @@ The respond function includes appropriate activities regarding an incident to mi
 #### Recover
 The recover function includes identifying appropriate activities to maintain plans for resilience and to restore services impaired during cybersuecrity incidents.  Key Objective: How do you get to a state that was equal or better than before the incident
 
-## Safeguards
+### Safeguards
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) however don't feel forced to use them as shown by the Example TaSM below.
