@@ -10,16 +10,15 @@ Here's one way you might mitigate these threats for your company.
 
 ![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png)
 
-# How does it work?
+# What do the terms mean?
+To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
 
 ### Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
 Common Examples of Common Threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
 
-
-### Functions & Safeguards
-
-###The 5 NIST Cyber Security Framework Functions allow you to create a defense in depth strategy which identifies how you will safeguard the business
+### NIST Functions
+The 5 NIST Cyber Security Framework Functions allow you to create a defense in depth strategy which identifies how you will safeguard the business
 #### Identify 
 The identify function assists in developing an organizational understanding of managing risk to systems, people, assets, data, and capabilities.  Key Objective: Identify all people, proccesses, or systems that would be vulnerable to this type of threat.  
 #### Protect
