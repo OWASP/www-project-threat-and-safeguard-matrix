@@ -2,11 +2,11 @@
 # Introduction
 The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [Ross Young](https://www.linkedin.com/in/mrrossyoung/).  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix allows a company to overlay its major threats with the NIST CSF functions (Identify, Protect, Detect, Respond, & Recover) to build a security plan.  Organizations who perfrom this activitiy will gain a better understanding of how to protect their company as they fill in safeguards that mitigate each threat.  
 
-![Threat and Safeguard Matrix](assets/images/EmptyTaSM.png "Threat and Safeguard Matrix")
+![Threat and Safeguard Matrix](assets/images/EmptyTaSM.png)
 
-Example if you were to look across the information security industry you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss. Here's one way you might mitigate these for your company.
+Example if you were to look across the information security industry you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss. Here's one way you might mitigate these threats for your company.
 
-![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png "Completed Threat and Safeguard Matrix")
+![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png)
 
 # How does it work?
 
@@ -39,3 +39,9 @@ As we look for ways to apply the TaSM in an organization one way that might be l
 
 Thus creating Mini TaSMs used by various teams.
 ![Threat Model Example](assets/images/ThreatModelExample.png)
+
+# Using the TaSM to enhance Incident Response Capabilities
+
+# Using the TaSM to help standardize Risk Committes
+Since Threats are not just specific to Cyber, we can also think about broadening the use of TaSM with companies outside of just cyber.  Example add a new column for organizations to create a matrix that could be used during risk committees
+![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
