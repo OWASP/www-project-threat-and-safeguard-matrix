@@ -32,7 +32,7 @@ The recover function includes identifying appropriate activities to maintain pla
 ### Safeguards
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) however feel free to use your own.
 
-## Using TaSM to enhance
+## Using TaSM to enhance Threat Modeling
 As we look for ways to apply the TaSM in an organization one way that might be leveraged is within Threat Models.  Example: Developer teams could use a data flow diagram showing key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the TaSM to identify key issues within their projects
 
 ![Threat Modeling](assets/images/ThreatModeling.png)
