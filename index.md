@@ -15,7 +15,7 @@ As we look for ways to apply the TaSM in an organization, one way that might be 
 ![Threat Modeling](assets/images/ThreatModeling.png)
 
 # Using the TaSM to help standardize Risk Committees
-Since Cyber Threats are not the only types of threats, we should look at how the TaSM could be adopted for larger use in Risk Committees.  All that is needed is an additional column to list the organization within a company.  Imagine if each organization shared their top 3-5 threats.  Your Risk Committee could show how the company is mitigating its biggest threats.  Additionally it allows the committee to think about how threats from one part of an organization might receive safeguards from another.  Example: How might Cyber leverage HR and Legal to help respond to Phishing attacks that cause brand damage.
+Since Cyber Threats are not the only types of threats, we should look at how the TaSM could be adopted for larger use in Risk Committees.  All that is needed is an additional column to list the organization within a company.  Imagine if each organization shared their top 3-5 threats.  Your Risk Committee could show how the company is mitigating its biggest threats.  Additionally it allows the committee to think about how threats from one part of an organization might receive safeguards from another.  Example: How might Cyber leverage HR and Legal processes to help respond to Phishing attacks that cause brand damage.
 
 ![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
 
