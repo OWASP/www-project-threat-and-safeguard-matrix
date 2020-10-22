@@ -2,7 +2,7 @@
 # Introduction
 The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [Ross Young](https://www.linkedin.com/in/mrrossyoung/).  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix allows a company to overlay its major threats with the NIST CSF functions (Identify, Protect, Detect, Respond, & Recover) to build a security plan.  Organizations who perfrom this activitiy will gain a better understanding of how to protect their company as they fill in safeguards that mitigate each threat.  
 
-![Threat and Safeguard Matrix](assets/images/TaSMMatrix.png "Threat and Safeguard Matrix")
+![Threat and Safeguard Matrix](assets/images/EmptyTaSM.png "Threat and Safeguard Matrix")
 
 Example if you were to look across the information security industry you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss. Here's one way you might mitigate these for your company.
 
@@ -30,4 +30,9 @@ The respond function includes appropriate activities regarding an incident to mi
 The recover function includes identifying appropriate activities to maintain plans for resilience and to restore services impaired during cybersuecrity incidents.  Key Objective: How do you get to a state that was equal or better than before the incident
 
 ### Safeguards
-**Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) however feel free to use your own as shown by the Example TaSM below.
+**Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) however feel free to use your own.
+
+## Using TaSM to enhance
+As we look for ways to apply the TaSM in an organization one way that might be leveraged is within Threat Models.  Example: Developer teams could use a data flow diagram showing key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the TaSM to identify key issues within their projects
+
+![Threat Modeling](assets/images/ThreatModeling.png)
