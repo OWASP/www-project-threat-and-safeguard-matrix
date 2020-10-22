@@ -1,6 +1,7 @@
 ---
 # Introduction
-The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [Ross Young](https://www.linkedin.com/in/mrrossyoung/).  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix overlays the major threats to a company with the NIST CSF functions (Identify, Protect, Detect, Respond, & Recover).  Organizations will gain a better understanding of how to protect their company as they fill in safeguards that mitigate each threat.   
+The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [Ross Young](https://www.linkedin.com/in/mrrossyoung/).  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix allows a company to overlay its major threats with the NIST CSF functions (Identify, Protect, Detect, Respond, & Recover) to build a security plan.  Organizations who perfrom this activitiy will gain a better understanding of how to protect their company as they fill in safeguards that mitigate each threat.  
+
 ![Threat and Safeguard Matrix](assets/images/TaSMMatrix.png "Threat and Safeguard Matrix")
 
 Example if you were to look across the information security industry you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss. Here's one way you might mitigate these for your company.
