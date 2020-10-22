@@ -43,5 +43,6 @@ Thus creating Mini TaSMs used by various teams.
 # Using the TaSM to enhance Incident Response Capabilities
 
 # Using the TaSM to help standardize Risk Committes
-Since Threats are not just specific to Cyber, we can also think about broadening the use of TaSM with companies outside of just cyber.  Example add a new column for organizations to create a matrix that could be used during risk committees
+Since Cyber Threats are not the only types of threats, we should look at how the TaSM could be adopted for larger use in Risk Committees.  All that is needed is an additional column to list the organization within a company.  Imagine if each organization shared their top 3-5 threats.  Your Risk Committee could show how the company is mitigating its biggest threats.  Additionally it allows the committee to think about how threats from one part of an organization might receive safeguards from another.  Example: How might Cyber leverage HR and Legal to help respond to Phishing attacks that cause brand damage.
+
 ![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
