@@ -10,6 +10,19 @@ Here's one way you might build a defense in depth plan to mitigate these threats
 
 ![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png)
 
+# Using TaSM to enhance Threat Modeling
+As we look for ways to apply the TaSM in an organization, one way that might be leveraged is within Threat Models.  Example: Developer teams could use a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) along with the TaSM to identify key issues within their projects.
+
+![Threat Modeling](assets/images/ThreatModeling.png)
+
+Thus creating Mini TaSMs used by various teams.  As Architecture review boards see numerous TaSMs used in threat models they might identify common threats or safeguards that need enterprise solutions.
+![Threat Model Example](assets/images/ThreatModelExample.png)
+
+# Using the TaSM to help standardize Risk Committes
+Since Cyber Threats are not the only types of threats, we should look at how the TaSM could be adopted for larger use in Risk Committees.  All that is needed is an additional column to list the organization within a company.  Imagine if each organization shared their top 3-5 threats.  Your Risk Committee could show how the company is mitigating its biggest threats.  Additionally it allows the committee to think about how threats from one part of an organization might receive safeguards from another.  Example: How might Cyber leverage HR and Legal to help respond to Phishing attacks that cause brand damage.
+
+![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
+
 # What do the terms mean?
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
 
