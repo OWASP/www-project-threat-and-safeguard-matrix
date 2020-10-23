@@ -11,7 +11,7 @@ Here's one way you might build a defense in depth plan to mitigate these threats
 ![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png)
 
 # Using TaSM to enhance Threat Modeling
-As we look for ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Threat Models.  Example: Developer teams could combine usinga a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the TaSM to identify key issues within their projects.  As Architecture Review Boards see numerous TaSMs used threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
+As we look for ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Threat Models.  Example: Developer teams could combine usinga a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the TaSM to identify key issues within their projects.  As Architecture Review Boards see numerous TaSMs used during threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
 ![Threat Modeling](assets/images/ThreatModeling.png)
 
 # Using the TaSM to help standardize Risk Committees
