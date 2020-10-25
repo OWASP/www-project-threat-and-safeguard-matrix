@@ -6,7 +6,10 @@ tags: TaSM, Threat, Safeguards, Matrix
 level: 2
 type: documentation
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+![OWASP Incubator Project](https://owasp.org/www-project-cyber-controls-matrix/assets/images/OWASP-Incubator_Project-blue.svg)
+![Release](https://owasp.org/www-project-threat-and-safeguard-matrix/assets/images/release-tbd-blue.svg)
+[![License](https://owasp.org/www-project-threat-and-safeguard-matrix/assets/images/license-CC--BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 
 ------
 # Introduction
