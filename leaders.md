@@ -1,2 +1,2 @@
 ### Leaders
-* [Ross Young](mailto:rossayoung@gmail.com)
+* [Ross Young](https://www.linkedin.com/in/mrrossyoung/)
