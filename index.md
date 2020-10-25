@@ -3,8 +3,6 @@
 layout: col-sidebar
 title: OWASP Threat and Safeguard Matrix (TaSM)
 tags: TaSM
-tab: true
-order: 1
 level: 2
 type: documentation
 
