@@ -10,5 +10,5 @@
 ### Downloads or Social Links
 
 
-### Code Repository
-* [GitHub Repository](https://github.com/OWASP/www-project-threat-and-safeguard-matrix)
+### Documentation Repository
+* [GitHub](https://github.com/OWASP/www-project-threat-and-safeguard-matrix)
