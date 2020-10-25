@@ -1,13 +1,16 @@
-## The OWASP Threat and Safeguard Matrix (TaSM)
+### Threat and Countermeasures Matrix Information
+* [Incubator Project](#)
+* [Type of Project](#)Documentation
+* [Version 0.0.0](#)
+* [Builder](#)
+* [Breaker](#)
 
+### Downloads or Social Links
+* [Download](#)
+* [Meetup](#)
 
-### Project Classification
-* <i class="fas fa-egg" style="color:#233e81;"></i> Incubator Project
-* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
-* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builders
-* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defenders
+### Code Repository
+* [repo](https://github.com/OWASP/www-project-threat-and-safeguard-matrix)
 
-### Social Media
-
-### Documentation Repository
-* [GitHub](https://github.com/OWASP/www-project-threat-and-safeguard-matrix)
+### Change Log
+* [changes](#)
