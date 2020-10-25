@@ -8,7 +8,7 @@
 * <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Downloads or Social Links
-* [Meetup](#)
+
 
 ### Code Repository
-* [repo](#)
+* [GitHub Repository](https://github.com/OWASP/www-project-threat-and-safeguard-matrix)
