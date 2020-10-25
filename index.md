@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Threat and Safeguard Matrix (TaSM)
-tags: FAQ
-level: 1
-type: 
-pitch: documentation
+tags: TaSM, Threat, Safeguards, Matrix
+level: 2
+type: documentation
+
 
 ------
 # Introduction
