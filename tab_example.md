@@ -1,11 +1,12 @@
 ---
-title: Example
+title: FAQ
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: FAQ
 ---
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Where can I learn more?
+Please reach out to the leaders of this project
