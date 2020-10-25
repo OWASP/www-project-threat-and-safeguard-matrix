@@ -5,7 +5,6 @@ title: OWASP Threat and Safeguard Matrix (TaSM)
 tags: TaSM Threat Safeguards Matrix
 level: 2
 type: documentation
-pitch: An action-oriented view to safeguard and enable the business
 
 ---
 
