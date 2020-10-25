@@ -7,6 +7,8 @@ level: 2
 type: documentation
 pitch: An action-oriented view to safeguard and enable the business
 
+---
+
 ![OWASP Incubator Project](https://owasp.org/www-project-cyber-controls-matrix/assets/images/OWASP-Incubator_Project-blue.svg)
 ![License](assets/images/license-CC--BY_4.0-blue.svg)
 
