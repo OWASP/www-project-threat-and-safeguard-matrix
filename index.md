@@ -7,10 +7,8 @@ level: 2
 type: documentation
 
 ---
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-------
 # Introduction
 The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [Ross Young](https://www.linkedin.com/in/mrrossyoung/).  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix allows a company to overlay its major threats with the NIST Cyber Security Functions (Identify, Protect, Detect, Respond, & Recover) to build a security plan.  Organizations which perform this activitiy will gain a better understanding of how to protect their company as they fill in safeguards whitch mitigate important threats.  
 
@@ -22,7 +20,6 @@ Here's one way you might build a defense in depth plan to mitigate these threats
 
 ![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png)
 
----
 # Using the TaSM to enhance Threat Modeling
 As we look for ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Threat Models.  Example: Developer teams could combine using a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the TaSM to identify key issues within their projects.  As Architecture Review Boards see numerous TaSMs used during threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
 ![Threat Modeling](assets/images/ThreatModeling.png)
@@ -32,7 +29,6 @@ Since cyber threats are not the only types of threats, we should also look at ho
 
 ![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
 
----
 # What do the terms mean?
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
 
@@ -60,5 +56,3 @@ The recover function includes identifying appropriate activities to maintain pla
 
 ### Safeguards
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Please note you can see the [108 different safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) however feel free to use your own.
-
-
