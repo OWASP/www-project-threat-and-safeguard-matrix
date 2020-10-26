@@ -39,7 +39,7 @@ To ensure proper use of the TaSM, be sure to understand the definitions of the t
 
 ### Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
-Common Examples of Common Threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
+Examples of common threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
 
 ### NIST Functions
 The 5 NIST Cyber Security Framework Functions allow you to create a defense in depth strategy which identifies how you will safeguard the business.  
