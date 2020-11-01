@@ -72,4 +72,3 @@ The recover function includes identifying appropriate activities to maintain pla
 #Thank You
 Thanks to the many folks who helped inspire the Threat and Safeguard Matrix
 ###[Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/) by [Sounil Yu](https://www.linkedin.com/in/sounil/)
-###[Cyber Controls Matrix](https://owasp.org/www-project-cyber-controls-matrix/) by [Eric Bragger](https://www.linkedin.com/in/eric-bragger/)
