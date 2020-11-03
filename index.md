@@ -18,7 +18,7 @@ Example: If you were to look across the information security industry, then you 
 
 Here's one way you might build a defense in depth plan to mitigate these threats for your company.
 
-![Completed Threat and Safeguard Matrix](assets/images/CompletedTaSM.png)
+![Example Threat and Safeguard Matrix](assets/images/ExampleTaSM.png)
 
 # Adding Metrics to the Plan
 Now that you have built your TaSM, it's important to look at the safeguards you listed.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can play key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember What gets measured gets done and what gets done gets funded
