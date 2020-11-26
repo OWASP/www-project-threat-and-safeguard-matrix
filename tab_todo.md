@@ -18,3 +18,4 @@ tags: TaSM
 - Add in additional fields of complexity like what we see in the Austrailian work here [Strategies to Mitigate Cyber Security Incidents](https://www.cyber.gov.au/sites/default/files/2019-03/Mitigation_Strategies_2017.pdf)
 - Map Risk-Reduction ROI calculations [Risk-Reduction ROI](https://www.cisecurity.org/blog/the-one-equation-you-need-to-calculate-risk-reduction-roi/)
 - Consider using [5 Top Cyber Threats from Verizon DBIR] (https://www.cisecurity.org/blog/protecting-organizations-from-todays-top-cyber-threats/). This would allow better mapping to the [CIS Community Defense Model] (https://www.cisecurity.org/white-papers/cis-community-defense-model/)
+- Look at the CIS Community Defense Model for the specific security value of safeguards [CIS Community Defese Model](https://www.cisecurity.org/white-papers/cis-community-defense-model/)
