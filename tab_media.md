@@ -13,6 +13,7 @@ tags: TaSM
 * TBD
 
 ## Videos
+* [OWASP Nashville](https://youtu.be/GRpU9L--qSg)
 * [Red Zone](https://www.youtube.com/watch?v=S-ZgXrajPbA)
 
 ## Podcasts
