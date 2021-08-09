@@ -65,7 +65,7 @@ The respond function includes appropriate activities regarding an incident to mi
 The recover function includes identifying appropriate activities to maintain plans for resilience and to restore services impaired during cyber security incidents.  Key Objective: How do you get to a state that was equal or better than before the incident
 
 ### Safeguards
-**Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Feel free to use these lists as a starating point:
+**Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Feel free to use these lists as a starting point:
 #### [171 CIS Sub-Controls](https://learn.cisecurity.org/CIS-Controls-V71-85x11-Singles-2.pdf)
 #### [108 Safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) 
 #### [42 Mitre Enterprise Mitigations](https://attack.mitre.org/mitigations/enterprise/)
