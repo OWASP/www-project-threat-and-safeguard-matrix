@@ -66,7 +66,7 @@ The recover function includes identifying appropriate activities to maintain pla
 
 ### Safeguards
 **Safeguards** are Actions, devices, procedures, techniques, or other measures that reduce the vulnerability of an information system. Synonymous with security controls and Countermeasures.  Feel free to use these lists as a starting point:
-#### [171 CIS Sub-Controls](https://learn.cisecurity.org/CIS-Controls-V71-85x11-Singles-2.pdf)
+#### [153 CIS Controls V8 Implementation Group](https://learn.cisecurity.org/CIS_Controls_v8_Implementation_Groups_Handout)
 #### [108 Safeguards outlined by NIST CSF](https://github.com/OWASP/www-project-threat-and-safeguard-matrix/blob/main/Nist_CSF_Safeguards) 
 #### [42 Mitre Enterprise Mitigations](https://attack.mitre.org/mitigations/enterprise/)
 
