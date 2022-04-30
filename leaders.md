@@ -1,2 +1,3 @@
 ### Leaders
-* Ross Young [LinkedIn](https://www.linkedin.com/in/mrrossyoung/) [Email](mailto://rossayoung@gmail.com?subject=TaSM)
+* Ross Young [LinkedIn](https://www.linkedin.com/in/mrrossyoung/) 
+* G Mark Hardy [LinkedIn](https://www.linkedin.com/in/gmarkhardy/)
