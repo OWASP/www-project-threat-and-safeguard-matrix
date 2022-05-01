@@ -7,7 +7,7 @@ level: 2
 type: documentation
 
 ---
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 # Introduction
 The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [CISO Tradecraft](https://www.cisotradecraft.com/).  Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix allows a company to overlay their major threats with the NIST Cyber Security Functions (Identify, Protect, Detect, Respond, & Recover) to build a robust security plan.  Organizations which perform this activity will gain a better understanding of how to protect their company as they fill in safeguards which mitigate important threats.  Remember the devil is in the details, hence why we chose a TaSManian Devil as the project logo.
