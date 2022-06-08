@@ -37,7 +37,7 @@ As we look for additional ways to apply the TaSM in an organization, one way the
 ![STRIDE-LM](assets/images/stride.jpg)
 
 Combining a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the STRIDE-LM enhanced TaSM can identify key issues within projects.  As Architecture Review Boards see numerous TaSMs used during threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
-![Threat Modeling](assets/images/tmstride.jpg)
+![Threat Modeling](assets/images/TMplusSTRIDELM.jpg)
 
 # Using the TaSM to help improve Risk Committees
 Since cyber threats are not the only types of threats, we should also look at how the TaSM could be adopted for larger use in Risk Committees.  All that is needed is an additional column to list the organization within a company.  Imagine if each organization shared their top 3-5 threats.  Your Risk Committee could show how the company is mitigating its biggest threats in a <b>Consistent, Adequate, Reasonable, and Effective (CARE)</b> way.  Additionally, it allows the committee to partner together to solve threats from multiple angles.  Example: How might Cyber leverage HR and Legal processes to help respond to Phishing attacks that cause brand damage.
