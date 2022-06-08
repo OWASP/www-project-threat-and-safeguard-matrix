@@ -33,7 +33,10 @@ Finally use your scorecard to tell a story that can be shared with executive lea
 ![Cyber Report Card](assets/images/newcybermetrics.jpg)
 
 # Using the TaSM to enhance Threat Modeling
-As we look for additional ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Threat Models.  Example: Developer teams could combine using a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the TaSM to identify key issues within their projects.  As Architecture Review Boards see numerous TaSMs used during threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
+As we look for additional ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Threat Models.  Example: Developer teams could use the STRIDE-LM model to identify threats to applications (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege, & Lateral Movement)
+[STRIDE-LM](assets/images/stride/jpg)
+
+Combining a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the STRIDE-LM enhanced TaSM can identify key issues within projects.  As Architecture Review Boards see numerous TaSMs used during threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
 ![Threat Modeling](assets/images/ThreatModeling.png)
 
 # Using the TaSM to help improve Risk Committees
