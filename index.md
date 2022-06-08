@@ -33,10 +33,15 @@ Finally use your scorecard to tell a story that can be shared with executive lea
 ![Cyber Report Card](assets/images/newcybermetrics.jpg)
 
 # Using the TaSM to enhance Threat Modeling
-As we look for additional ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Threat Models.  Example: Developer teams could use the STRIDE-LM model to identify threats to applications (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege, & Lateral Movement)
+As we look for additional ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Application Threat Modeling Discussions.  A Threat Model shown by an application team might look like the following:
+![Example Threat Model](assets/images/examplethreat.jpg)
+
+Application Development teams might standardize threat categories by using proven threat models such as STRIDE-LM model to identify common threats to applications.
 ![STRIDE-LM](assets/images/stride.jpg)
 
-Combining a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card) which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types) with the STRIDE-LM enhanced TaSM can identify key issues within projects.  As Architecture Review Boards see numerous TaSMs used during threat model discussions, architects might identify common threats or safeguards that need enterprise solutions.
+Application teams can also combine a STIDE-LM enhanced TaSM with a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card).  Note a data flow diagram is a network diagram which shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types).
+
+By using both a STRIDE-LM enhanced TaSM and a Data Flow Diagram application teams can have a simple and effective way to describe their applications and its perceived threats during Architecture Review Boards.  This can really create insightful discussions.  Additionally Architecture Review Boards might notice that 20% of all applications possess the same findings.  These findings can be communicated to IT leadership for resolution with an enterprise solution.
 ![Threat Modeling](assets/images/TMplusSTRIDELM.jpg) 
 
 # Using the TaSM to help improve Risk Committees
