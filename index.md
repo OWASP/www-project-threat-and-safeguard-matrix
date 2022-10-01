@@ -32,7 +32,7 @@ Finally use your scorecard to tell a story that can be shared with executive lea
 
 ![Cyber Report Card](assets/images/newcybermetrics.jpg)
 
-# Using the TaSM to enhance Threat Modeling
+## Using the TaSM to enhance Threat Modeling
 As we look for additional ways to apply the TaSM in an organization, one way the TaSM might be leveraged is within Application Threat Modeling Discussions.  A Threat Model shown by an application team might look like the following:
 ![Example Threat Model](assets/images/examplethreat.jpg)
 
