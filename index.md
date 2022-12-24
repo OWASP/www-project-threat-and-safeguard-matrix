@@ -21,7 +21,7 @@ Here's one way you might build a defense in depth plan to mitigate these threats
 
 # Adding Metrics to the Plan
 Now that you have built your TaSM, it's important to look at the safeguards you listed.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded
-![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBoxes.png)
+![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
 
 # Creating a Cyber Report Card
 After outlining the safeguards you want to make improvements on, your organization should create key metrics and a scorecard.  This example has a few things to notice but feel free to make modifications. 1) Group things into key categories such as Technology, People, Processes, & Attack Environment.  These are groups broken down into tactical metric types that can be measured.  With a clear definition of how to measure these metrics you can record three important types of information.  1) What is the <b>STATUS</b> of where our organization is at right now or during previous quarters, what are the <b>TRENDS</b> to see if we are improving or not, and what are the desired <b>GOALS</b> to determine when we know we are done.  (Optional) You might even put due dates on your goals when you expect to achieve them.
