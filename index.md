@@ -12,12 +12,12 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 # Introduction
 The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguard and enable the business created by [CISO Tradecraft](https://www.cisotradecraft.com/).  Simply put if Cyber is in the Business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies.  This matrix allows a company to overlay their major threats with the NIST Cyber Security Functions (Identify, Protect, Detect, Respond, & Recover) to build a robust security plan.  Organizations which perform this activity will gain a better understanding of how to protect their company as they fill in safeguards which mitigate important threats.  Remember the devil is in the details, hence why we chose a TaSManian Devil as the project logo.
 
-![Threat and Safeguard Matrix](assets/images/TaSMBlank.png)
+![Threat and Safeguard Matrix](assets/images/TaSM.png)
 
 Example: If you were to look across the information security industry, then you would notice that the largest data breaches against companies often involve Phishing, Ransomware, Web Application Attacks, and Vendor/Partner Data Loss. Please note you can add others to the matrix like Insider Threat, Supply Chain Attacks or anything unique to your environment.
 
 Here's one way you might build a defense in depth plan to mitigate these threats for your company.
-![Example TaSM](assets/images/TaSMExample.png)
+![Example TaSM](assets/images/TaSMFilled.png)
 
 # Adding Metrics to the Plan
 Now that you have built your TaSM, it's important to look at the safeguards you listed.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded
