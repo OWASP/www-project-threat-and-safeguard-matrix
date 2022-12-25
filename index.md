@@ -14,7 +14,7 @@ The Threat and Safeguard Matrix or (TaSM) is an action oriented view to safeguar
 
 ![Threat and Safeguard Matrix](assets/images/TaSMBlankNoName.png)
 
-Example: If you were to look across the information security industry, then you would notice that the largest data breaches against companies often involve things like the following: Web Application Attacks, Phishing, 3rd Party Data Loss, Supply Chain Attacks, or Denial of Service. Please note you can add others to the matrix like Insider Threat, User Error, or anything unique to your environment.
+Example: If you were to look across the information security industry, then you would notice that the largest threats to companies often involve things like the following: Web Application Attacks, Phishing, 3rd Party Data Loss, Supply Chain Attacks, or Denial of Service. Please note you can add others to the matrix like Insider Threat, User Error, or anything unique to your environment.
 
 Here's one way you might build a defense in depth plan to mitigate these threats for your company.
 ![Example TaSM](assets/images/TaSMFilledOnly.png)
@@ -51,6 +51,9 @@ Since cyber threats are not the only types of threats, we should also look at ho
 
 # What do the terms mean?
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
+
+### Cyber Security
+Cybersecurity is the Business of Revenue Protection.  Cybersecurity is all about understanding, managing, and mitigating the risk of your critical data being disclosed (confidentiality), altered (integrity), or denied (availability).  
 
 ### Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
