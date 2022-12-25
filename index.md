@@ -20,7 +20,7 @@ Here's one way you might build a defense in depth plan to mitigate these threats
 ![Example TaSM](assets/images/TaSMFilledOnly.png)
 
 # Adding Metrics to the Plan
-Now that you have built your TaSM, it's important to look at the safeguards you listed.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded
+Now that you have built your TaSM, it's important to look at the safeguards you listed.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded.
 ![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
 
 # Creating a Cyber Report Card
@@ -53,7 +53,7 @@ Since cyber threats are not the only types of threats, we should also look at ho
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
 
 ### Cyber Security
-Cybersecurity is the Business of Revenue Protection.  Cybersecurity is all about understanding, managing, and mitigating the risk of your critical data being disclosed (confidentiality), altered (integrity), or denied (availability).  
+Cyber security is the Business of Revenue Protection.  Cyber security is all about understanding, managing, and mitigating the risk of your critical data being disclosed (confidentiality), altered (integrity), or denied (availability).  
 
 ### Threats
 CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
