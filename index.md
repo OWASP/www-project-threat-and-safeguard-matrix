@@ -48,7 +48,7 @@ Application Development teams might standardize threat categories by using prove
 
 Application teams can also combine a STIDE-LM enhanced TaSM with a [data flow diagram](https://d1.awsstatic.com/whitepapers/compliance/pci-dss-compliance-on-aws.pdf?did=wp_card&trk=wp_card).  Note a data flow diagram is a network diagram that shows key attributes such as (Encryption Layers, Access Control Methods, and Data Types).
 
-By using both a STRIDE-LM enhanced TaSM and a Data Flow Diagram application teams can have a simple and effective way to describe their applications and thier perceived threats during Architecture Review Boards.  This can create insightful discussions.  Additionally, architecture review boards might notice that 20% of all applications possess the same findings.  These findings can be communicated to IT leadership for resolution with an enterprise solution.
+By using both a STRIDE-LM enhanced TaSM and a Data Flow Diagram application teams can have a simple and effective way to describe their applications and thier perceived threats during architecture review boards.  This can create insightful discussions.  Additionally, architecture review boards might notice that 20% of all applications possess the same findings.  These findings can be communicated to IT leadership for resolution by an enterprise solution.
 ![Threat Modeling](assets/images/TMplusSTRIDELM.jpg) 
 
 # Using the TaSM to help improve Risk Committees
