@@ -27,7 +27,7 @@ Now that you have built your TaSM, it's important to look at the safeguards you 
 After outlining the safeguards your organization wants to make improvements on, you should create metrics that matter and place them on a scorecard.  This example has a few things to notice but feel free to make modifications. 1) Group things into key categories such as Technology, People, Processes, & the Environment.  Note Environment refers to things outside of your organization's control (i.e. Bad actors or external regulators) 
 
 The scorecard is broken down into metrics that can be monitored, measured, and analyzed.  You can think of them as Key Performance Indicators (KPIs) to measure the success of information security activities being performed within an organization.  Remember a good metric display 4-5 important things:
-1. A clear <b>Definition</b> 
+1. A clear <b>Definition</b> of what the metric means
 2. The <b>Status</b> of where the metric is right now as well as during previous points in time
 3. A <b>Trend Line</b> to easily highlight if the current status has improved, stayed consistent, or gotten worse
 4. A <b>GOALS</b> to show a clear definition of done or desired state for the organization to achieve
