@@ -26,7 +26,7 @@ Now that you have built your TaSM, it's important to look at the safeguards you 
 # Creating a Cyber Report Card
 After outlining the safeguards you want to make improvements on, your organization should create key metrics and a scorecard.  This example has a few things to notice but feel free to make modifications. 1) Group things into key categories such as Technology, People, Processes, & the Environment.  Note Environment refers to things outside of your organization's control (i.e. Bad actors or external regulators) 
 
-The scorecar isbroken down into tactical metric that can be monitored, measured, and analyzed like Key Performance Indicators (KPIs).  Remember a good metric needs to display 4-5 things:
+The scorecard is broken down into tactical metric that can be monitored, measured, and analyzed like Key Performance Indicators (KPIs).  Remember a good metric needs to display 4-5 things:
 1. A clear <b>Definition</b> 
 2. The <b>Status</b> of where the metric is right now or during previous points in time
 3. The <b>Trend Line</b> to show if the metrics are improving or not
