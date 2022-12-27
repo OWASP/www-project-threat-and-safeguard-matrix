@@ -24,13 +24,14 @@ Now that you have built your TaSM, it's important to look at the safeguards you 
 ![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
 
 # Creating a Cyber Report Card
-After outlining the safeguards you want to make improvements on, your organization should create key metrics and a scorecard.  This example has a few things to notice but feel free to make modifications. 1) Group things into key categories such as Technology, People, Processes, & the Environment.  Note Environment usually refers to things outside of your control (i.e. Bad actors targeting your company or regulators adding new compliance requirements) 
+After outlining the safeguards you want to make improvements on, your organization should create key metrics and a scorecard.  This example has a few things to notice but feel free to make modifications. 1) Group things into key categories such as Technology, People, Processes, & the Environment.  Note Environment refers to things outside of your organization's control (i.e. Bad actors or external regulators) 
 
-These are groups broken down into tactical metric types that can be monitored, measured, anad analyzed as key performance indicators (KPIs).  Remember a good metric needs a clear definition of done, it also needs to display three important types of information: 
-1. The <b>STATUS</b> of where the metric is at right now or during previous quarters
-2. The <b>TRENDS</b> to show if the metrics are improving or not
-3. The desired <b>GOALS</b> to determine when we know we are done.  
-4. (Optional) The <b>Due Date</b> on when you expect your goal to be achieved in the future.  Note this is optional since you may have a metric that has already hit the objective and just needs to maintain compliance with the goal going forward.
+The scorecar isbroken down into tactical metric that can be monitored, measured, and analyzed like Key Performance Indicators (KPIs).  Remember a good metric needs to display 4-5 things:
+1. A clear <b>Definition</b> 
+2. The <b>Status</b> of where the metric is right now or during previous points in time
+3. The <b>Trend Line</b> to show if the metrics are improving or not
+4. The desired <b>GOALS</b> to determine when we know we are done.  
+5. (Optional) The <b>Due Date</b> on when you expect your goal to be achieved in the future.  Note this is optional since you may have a metric that has already hit the objective and just needs to maintain compliance with the goal going forward.
 
 Finally use your scorecard to tell a story that can be shared with executive leadership teams.  Please note this story is fictitious and does not reflect an actual company.
 
