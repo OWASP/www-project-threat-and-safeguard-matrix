@@ -67,7 +67,7 @@ The Committee on National Security Systems (CNSS) defines a **[Threat](https://w
 Examples of common threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
 
 ### NIST Functions
-The 5 NIST Cyber Security Framework Functions allow you to create a defense in-depth strategy which identifies how you will safeguard the business.  
+The 5 NIST Cyber Security Framework Functions allow you to create a defense in-depth strategy that identifies how you will safeguard the business.  
 
 **1) Identify**
 The identify function assists in developing an organizational understanding of managing risk to systems, people, assets, data, and capabilities.  Key Objective: Identify all people, processes, or systems that would be vulnerable to this type of threat.  
