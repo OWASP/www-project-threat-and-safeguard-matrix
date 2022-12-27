@@ -30,7 +30,7 @@ The scorecard is broken down into metrics that can be monitored, measured, and a
 1. A clear <b>Definition</b> of what the metric means
 2. The <b>Status</b> of where the metric is right now as well as during previous points in time
 3. A <b>Trend Line</b> to easily highlight if the current status has improved, stayed consistent, or gotten worse
-4. A <b>GOALS</b> to show a clear definition of done or desired state for the organization to achieve
+4. A <b>Goal</b> to show a clear definition of done or desired state for the organization to achieve
 5. (Optional) The <b>Due Date</b> on when you expect your goal to be achieved in the future.  Note this is optional since you may have metrics that have already hit the goal and just needs to maintain compliance going forward.
 
 Finally use your scorecard to tell a story that can be shared with executive leadership teams.  Please note this story is fictitious and does not reflect an actual company.
