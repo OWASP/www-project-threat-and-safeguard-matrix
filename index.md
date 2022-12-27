@@ -56,7 +56,7 @@ To ensure proper use of the TaSM, be sure to understand the definitions of the t
 Cyber security is the Business of Revenue Protection.  Cyber security is all about understanding, managing, and mitigating the risk of your critical data being disclosed (confidentiality), altered (integrity), or denied (availability).  
 
 ### Threats
-CNSS defines a **Threat** as any event with the potential to adversely impact organizational operations.
+The Committee on Nastional Security Systems (CNSS) defines a **[Threat](https://www.cnss.gov/CNSS/openDoc.cfm?RdlzQ4+p2Zr6FLhO4Lo3Bw==)** as any event with the potential to adversely impact organizational operations.
 Examples of common threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
 
 ### NIST Functions
