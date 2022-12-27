@@ -30,7 +30,7 @@ These are groups broken down into tactical metric types that can be monitored, m
 1. The <b>STATUS</b> of where the metric is at right now or during previous quarters
 2. The <b>TRENDS</b> to show if the metrics are improving or not
 3. The desired <b>GOALS</b> to determine when we know we are done.  
-4. (Optional) The due dates on when you expect your goal to be achieved.  Note this is optional since you may want to perserver a current status so the goal is ongoing.
+4. (Optional) The <b>Due Date</b> on when you expect your goal to be achieved in the future.  Note this is optional since you may have a metric that has already hit the objective and just needs to maintain compliance with the goal going forward.
 
 Finally use your scorecard to tell a story that can be shared with executive leadership teams.  Please note this story is fictitious and does not reflect an actual company.
 
