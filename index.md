@@ -27,9 +27,10 @@ Now that you have built your TaSM, it's important to look at the safeguards you 
 After outlining the safeguards you want to make improvements on, your organization should create key metrics and a scorecard.  This example has a few things to notice but feel free to make modifications. 1) Group things into key categories such as Technology, People, Processes, & the Environment.  Note Environment usually refers to things outside of your control (i.e. Bad actors targeting your company or regulators adding new compliance requirements) 
 
 These are groups broken down into tactical metric types that can be monitored, measured, anad analyzed as key performance indicators (KPIs).  Remember a good metric needs a clear definition of done, it also needs to display three important types of information: 
-1. What is the <b>STATUS</b> of where our organization is at right now or during previous quarters
-2. What are the <b>TRENDS</b> to see if we are improving or not
-3. What are the desired <b>GOALS</b> to determine when we know we are done.  (Optional) You might even put due dates on your goals when you expect to achieve them.
+1. The <b>STATUS</b> of where the metric is at right now or during previous quarters
+2. The <b>TRENDS</b> to show if the metrics are improving or not
+3. The desired <b>GOALS</b> to determine when we know we are done.  
+4. (Optional) The due dates on when you expect your goal to be achieved.  Note this is optional since you may want to perserver a current status so the goal is ongoing.
 
 Finally use your scorecard to tell a story that can be shared with executive leadership teams.  Please note this story is fictitious and does not reflect an actual company.
 
