@@ -64,8 +64,8 @@ Cyber security is the Business of Revenue Protection.  Cyber security is all abo
 
 ### Threats
 The Committee on National Security Systems (CNSS) defines a **[Threat](https://www.cnss.gov/CNSS/openDoc.cfm?RdlzQ4+p2Zr6FLhO4Lo3Bw==)** as any event with the potential to adversely impact organizational operations.
-Examples of common threat types can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
-If you are looking for a more detailed list of threats please look at Appendix E in [NIST Special Publications 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
+* Common threat categories can be found here [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
+* If you are looking for a detailed list of threats consider using [NIST Special Publications 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) Appendix E
 
 ### NIST Functions
 The 5 NIST Cyber Security Framework Functions allow you to create a defense in-depth strategy that identifies how you will safeguard the business.  
