@@ -14,7 +14,7 @@ The Threat and Safeguard Matrix (TaSM) is an action-oriented view to safeguard a
 
 ![Threat and Safeguard Matrix](assets/images/TaSMBlankNoName.png)
 
-Example: If you were to look across the information security industry, then you would notice that the largest threats to companies often involve things like the following: Web Application Attacks, Phishing, 3rd Party Data Loss, Supply Chain Attacks, or Denial of Service. Please note you can add others to the matrix like Insider Threats, User Errors, or anything unique to your environment.
+Example: If you were to look across the information security industry, then you would notice that the largest threats to companies often involve things like the following: Web Application Attacks, Phishing, 3rd Party Data Loss, Supply Chain Attacks, or Denial of Service. Please note you can add others to the matrix like Insider Threats, User Errors, Fraud, or anything unique to your environment.
 
 Here's one way you might build a defense in depth plan to mitigate these threats for your company.
 ![Example TaSM](assets/images/TaSMFilledOnly.png)
