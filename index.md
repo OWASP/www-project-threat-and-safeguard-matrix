@@ -93,8 +93,11 @@ The recover function includes identifying appropriate activities to maintain pla
 #### [ISO 27002:2022 Information Security Controls](https://www.iso.org/standard/75652.html)
 
 One common way to organize safeguards is by catergorizing each of them into one of 3 buckets
+
 **People** - People safeguard can be thought of as education, training, and awareness activities that influence human behaviors
+
 **Process** - Process Safeguards can be thought of as Policies, Practices, & Proof/Evidence to operationalize desired outcomes.
+
 **Technology** - Technological Safeguards can be thought of as any technical solution that improves the safety and security of a system (WAF, Firewall, Antivirus, etc.)
 
 # Thank You
