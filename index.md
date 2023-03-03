@@ -92,13 +92,13 @@ The recover function includes identifying appropriate activities to maintain pla
 #### [42 Mitre Enterprise Mitigations](https://attack.mitre.org/mitigations/enterprise/)
 #### [ISO 27002:2022 Information Security Controls](https://www.iso.org/standard/75652.html)
 
-One common way to organize safeguards is by catergorizing each of them into one of 3 buckets
+One common way to organize safeguards is by catergorizing each of them into one of three buckets
 
-**People** - People safeguard can be thought of as education, training, and awareness activities that influence human behaviors
+**People** - People safeguards can be thought of as education, training, and awareness activities that influence human behaviors
 
-**Process** - Process Safeguards can be thought of as Policies, Practices, & Proof/Evidence to operationalize desired outcomes.
+**Process** - Process safeguards can be thought of as Policies, Practices, & Proof or Evidence to operationalize desired outcomes.
 
-**Technology** - Technological Safeguards can be thought of as any technical solution that improves the safety and security of a system (WAF, Firewall, Antivirus, etc.)
+**Technology** - Technological safeguards can be thought of as any technical solution that improves the safety and security of a system (WAF, Firewall, Antivirus, etc.)
 
 # Thank You
 Thanks to the many folks who helped inspire and Improve the Threat and Safeguard Matrix
