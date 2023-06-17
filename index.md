@@ -103,5 +103,5 @@ One common way to organize safeguards is by catergorizing each of them into one 
 # Thank You
 Thanks to the many folks who helped inspire and Improve the Threat and Safeguard Matrix
 #### [Cyber Defense Matrix](https://cyberdefensematrix.com/) by [Sounil Yu](https://www.linkedin.com/in/sounil/)
-#### [Cyber Controls Matrix](https://owasp.org/www-project-cyber-controls-matrix/) by [Eric Bragger](https://www.linkedin.com/in/eric-bragger/)
+#### [Eric Bragger](https://www.linkedin.com/in/eric-bragger/)
 #### [Andy Ellis](https://www.linkedin.com/in/csoandy/)
