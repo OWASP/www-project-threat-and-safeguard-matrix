@@ -66,6 +66,10 @@ Don't forget to use the TaSM against emerging threats such as Artificial Intelli
 6. **Unethical AI Recommendations**: Your language model makes morally questionable decisions, like suggesting euthanasia to reduce financial strain.
 7. **Bias-Fueled Liability**: Loan-issuing AI trained on biased data fields like sex, race, and age creates legal and reputational risks.
 
+You might create a TaSM to illustrate how you would safeguard your company against these threats.  For example:
+![AI Threats](assets/images/AIThreats.png)
+
+
 # What do the terms mean?
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
 
