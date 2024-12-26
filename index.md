@@ -56,6 +56,16 @@ Since cyber threats are not the only types of threats, we should also look at ho
 
 ![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
 
+# Using the TaSM to Safeguard against AI Related Threats
+Don't forget to use the TaSM against emerging threats such as Artificial Intelligence (AI).  For example: Let's say there are 7 material threats that your company is worried about regarding AI:
+1. **Sensitive Data Leaks**: Employees upload sensitive information or intellectual property to unauthorized external LLMs.
+2. **Malicious AI Supply Chains**: A developer integrates an AI/ML model contaminated with malware or hidden cryptocurrency miners.
+3. **Hallucinated Promises, Real Legal Risks**: Your chatbot falsely commits to outcomes your company cannot deliver, leading to legal exposure.
+4. **Data Overexposure**: Training your LLM on unrestricted company research enables insiders to bypass Role-Based Access Controls and access sensitive data.
+5. **AI Misuse for Personal Harm**: An individual exploits your LLM’s capabilities to stalk or harass an ex-spouse.
+6. **Unethical AI Recommendations**: Your language model makes morally questionable decisions, like suggesting euthanasia to reduce financial strain.
+7. **Bias-Fueled Liability**: Loan-issuing AI trained on biased data fields like sex, race, and age creates legal and reputational risks.
+
 # What do the terms mean?
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
 
