@@ -57,7 +57,7 @@ Since cyber threats are not the only types of threats, we should also look at ho
 ![TaSM in Risk Committees](assets/images/TaSMRiskCommittee.png)
 
 # Using the TaSM to Safeguard against AI Related Threats
-Don't forget to use the TaSM against emerging threats such as Artificial Intelligence (AI).  It's a great way to show what an effective strategy might look like for cutting edge threats.  This is extremely helpful when you might need to forecast funding a next generation program to stop emerging threats.  
+Don't forget to use the TaSM against emerging threats such as Artificial Intelligence (AI).  It's a great way to show what an effective strategy might look like for cutting edge threats.  This is extremely helpful when you might need to forecast the breadth of solutions needed to create an effecitve program to stop emerging threats in AI.  
 
 For example: Let's say there are 7 material threats that your company is worried about regarding the use of Generative AI and Large Language Models (LLMs):
 1. **Sensitive Data Leaks**: Employees upload sensitive information or intellectual property to unauthorized external LLMs.
@@ -72,7 +72,7 @@ Consider creating the TaSM to showcase how you'd safeguard your organization fro
 
 ![AI Threats](assets/images/AIThreats.png)
 
-This matrix makes it clear that there is no single solution for AI security. Each threat demands a unique set of safeguards, highlighting the necessity of a robust, defense-in-depth strategy to effectively counter a diverse range of AI risks and protect your company from material impacts.
+This matrix makes it clear that there is no single solution that your company can buy to solve AI security. Each threat demands a unique set of safeguards, highlighting the necessity of a robust, defense-in-depth strategy to effectively counter a diverse range of AI risks and protect your company from material impacts.
 
 # What do the terms mean?
 To ensure proper use of the TaSM, be sure to understand the definitions of the terms used within the matrix
