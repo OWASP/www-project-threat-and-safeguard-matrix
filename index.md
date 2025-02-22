@@ -19,6 +19,34 @@ Example: If you were to look across the information security industry, then you 
 Here's one way you might build a defense in depth plan to mitigate these threats for your company.
 ![Example TaSM](assets/images/TaSMFilledOnly.png)
 
+# Common Examples of Threats
+If you are looking for common examples of threats which can cause material loss consider using any of the following scenarios:
+1. **Brand Impersonation Scams** – Imposters launch fake websites to sell counterfeit products under your name.
+2. **Business Email Compromise** – Employees fall for a phishing scam, handing over usernames, passwords, and even MFA codes.
+3. **Business Logic Bugs** – A bug in your trading algorithm generates losses instead of profits.
+4. **BYOD Issues** – Remote employees outsource their work, unknowingly involving unauthorized foreign actors from North Korea.
+5. **CEO Impersonation** – A fraudster impersonates your CEO with deep fakes on social media, spreading rumors of layoffs and financial troubles tanking your stock price.  Note your CEO doesn't even have social media
+6. **Cloud Disruption** – Your cloud provider or SaaS partner goes down, and so does your business continuity.
+7. **Compliance Attestation Complications** – Misinterpreting regulations leads to false attestations—and potential legal action.
+8. **Credential Theft Issues** – Your open-source project accidentally exposes secret tokens and private keys to sensitive servers and cloud environments.
+9. **Customer Rewards Raid** – Digital thieves snatch customer reward points, leaving your support team flooded with angry calls.
+10. **Email Overloaded** – Your leadership drowns in endless spam from throwaway Gmail accounts.
+11. **Deepfake Deception** – A hyper-realistic deepfake of your CFO tricks the accounts payable team into wiring unauthorized funds.
+12. **DDoS/Botnet Attack** – A swarm of bots takes down your website after a controversial corporate statement.
+13. **Forum Defacement** – Script kiddies flood your customer help forums with junk, wrecking your brand’s credibility.
+14. **Help Desk Hijack** – Impersonators sweet-talk IT support into resetting employee passwords.
+15. **Insider Threat** – Departing researchers take sensitive IP to a rival company.
+16. **Infected IoT Devices** – Malware takes over your unpatchable IoT devices, turning them into cyber-zombies.
+17. **Open Source Trojan** – That “helpful” library your developers installed? It came preloaded with malware and crypto miners.
+18. **Prolonged Power Outages** – Natural disasters knock out power, and your operations grind to a halt.
+19. **Hardware Exploits** – Nation-state attackers slip implants into your networking gear.
+20. **Payment Fraud** – Scammers trick your customers into redirecting payments to their fraudulent accounts.
+21. **Private Data is Publicly Exposed** – Sensitive data leaks from a misconfigured public S3 bucket.  Now your secrets are out.
+22. **Rogue Access Points** – Rogue networks near your company cafeteria mimic your corporate Wi-Fi to lure in unsuspecting employees.
+23. **Wrong Access Permissions** – Sensitive SharePoint data ends up in the hands of the wrong reseller—for years.
+24. **Unpatched Laptops** – An employee connects to airport Wi-Fi and unknowingly invites malware onto an unpatched laptop.
+25. **Zero-Day Attack** – Hackers exploit a fresh OpenSSL/Log4J vulnerability on your public website before a patch even exists.
+
 # Adding Metrics to the Plan
 Now that you have built your TaSM, it's important to look at the safeguards you listed and where you have gaps.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded.
 ![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
