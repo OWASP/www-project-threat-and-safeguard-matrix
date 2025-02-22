@@ -111,7 +111,7 @@ To ensure proper use of the TaSM, be sure to understand the definitions of the t
 Cyber security is the Business of Revenue Protection.  Cyber security is all about understanding, managing, and mitigating the risk of your critical data being disclosed (confidentiality), altered (integrity), or denied (availability).  
 
 ### Threats
-The Committee on National Security Systems (CNSS) defines a **[Threat](https://www.cnss.gov/CNSS/openDoc.cfm?RdlzQ4+p2Zr6FLhO4Lo3Bw==)** as any event with the potential to adversely impact organizational operations.
+The Committee on National Security Systems (CNSS) defines a **[Threat](https://csrc.nist.gov/glossary/term/threat)** as any event with the potential to adversely impact organizational operations.
 
 ### NIST Functions
 The 5 NIST Cyber Security Framework Functions allow you to create a defense in-depth strategy that identifies how you will safeguard the business.  
