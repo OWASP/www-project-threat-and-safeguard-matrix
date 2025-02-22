@@ -47,6 +47,8 @@ If you are looking for common examples of threats which can cause material loss 
 24. **Unpatched Laptops** – An employee connects to airport Wi-Fi and unknowingly invites malware onto an unpatched laptop.
 25. **Zero-Day Attack** – Hackers exploit a fresh OpenSSL/Log4J vulnerability on your public website before a patch even exists.
 
+* If you are looking for detailed list of threat events from NIST, then consider using [NIST Special Publications 800-30 Appendix E](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf)
+
 # Adding Metrics to the Plan
 Now that you have built your TaSM, it's important to look at the safeguards you listed and where you have gaps.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded.
 ![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
@@ -110,8 +112,6 @@ Cyber security is the Business of Revenue Protection.  Cyber security is all abo
 
 ### Threats
 The Committee on National Security Systems (CNSS) defines a **[Threat](https://www.cnss.gov/CNSS/openDoc.cfm?RdlzQ4+p2Zr6FLhO4Lo3Bw==)** as any event with the potential to adversely impact organizational operations.
-* If you are looking for high level list of threat scenarios, then consider using [STRIDE-LM](assets/images/StrideLM.png "STRIDE-LM")
-* If you are looking for detailed list of threat events, then consider using [NIST Special Publications 800-30](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf) Appendix E
 
 ### NIST Functions
 The 5 NIST Cyber Security Framework Functions allow you to create a defense in-depth strategy that identifies how you will safeguard the business.  
