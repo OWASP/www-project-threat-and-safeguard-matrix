@@ -14,7 +14,7 @@ tags: TaSM
 * [Older Slides](https://docs.google.com/presentation/d/1-focd_lYpVDhoDzYp5HONic0Lc--3FIExTY2M83TMpI/edit?usp=sharing)
 
  ## Helpful tools to workshop the TaSM
- [Miro Board](https://miro.com/app/board/uXjVPoIPoGc=/)
+* [Miro Board](https://miro.com/app/board/uXjVPoIPoGc=/)
 
 ## Videos
 * [OWASP Nashville](https://youtu.be/GRpU9L--qSg)
