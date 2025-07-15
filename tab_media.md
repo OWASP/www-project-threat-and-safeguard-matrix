@@ -23,4 +23,4 @@ tags: TaSM
 ## Podcasts
 * [CISO Secrets - Feb 18 2021](https://cp.buzzsprout.com/1335199/7894258-ep-s1e4-ross-young-ciso-at-caterpillar)
 * [CISO-Security Vendor Relationship Podcast - Oct 6 2020](https://podcasts.google.com/feed/aHR0cHM6Ly9kYXZpZHNwYXJrLmxpYnN5bi5jb20vY2lzb3ZlbmRvcg/episode/ODUxNmY1NDUtNTBkYy00OTkyLWFlMzItZDBkNTI0MmM1ZGZi?sa=X&ved=0CAUQkfYCahcKEwiA1ZXmrdLsAhUAAAAAHQAAAAAQBw)
-* [CISO Tradecraft - July 14th 2025] (https://www.youtube.com/watch?v=DueP1CrYJIE)
+* [CISO Tradecraft - July 14th 2025](https://www.youtube.com/watch?v=DueP1CrYJIE)
