@@ -53,7 +53,7 @@ If you are looking for common examples of threats which can cause material loss 
 Now that you have built your TaSM, it's important to look at the safeguards you listed and where you have gaps.  Not every safeguard will be as important.  If everything is important, then nothing is truly important.  Think about the safeguards you want to focus on as an organization.  These may be the ones that are the most effective in stopping the threat.  These safeguards may also be where you have the largest opportunity to improve.  Pick a few safeguards that you can place key metrics on and highlight them by adding a red box.  This will allow you to map progress from your metrics to your TaSM.  Remember, what gets measured gets done and what gets done gets funded.
 ![Adding Metrics to the Matrix](assets/images/TaSMFilledRedBox.png)
 
-# Craete Your Own Threat & Safeguard Matrix with our Interactive Web Application
+# Craete Your Own TaSm with the Interactive Web Application
 You can vew the tool here [TaSM Tool](https://www.cisotradecraft.com/tasm)
 
 [![Click to try the Interactive Website](assets/images/TaSMWebsite.png)](https://www.cisotradecraft.com/tasm)
